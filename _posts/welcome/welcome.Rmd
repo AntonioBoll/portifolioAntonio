@@ -1,8 +1,8 @@
 ---
 title: "Welcome to Antonio Oss Boll"
 description: |
-  Welcome to our new blog, Antonio Oss Boll. We hope you enjoy 
-  reading what we have to say!
+  Welcome to our new blog, my name is Antonio Oss Boll. I hope you enjoy 
+  reading what I have to say!
 author:
   - name: Antonio Boll 
     url: https://example.com/norajones
